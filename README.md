@@ -1,0 +1,2 @@
+# TheSimoneGame
+applying Jquery
